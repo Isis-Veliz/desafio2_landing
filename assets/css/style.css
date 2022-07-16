@@ -17,6 +17,9 @@ header h1 {
   font-weight: 400;
   color: rgb(11, 22, 65);
 }
+.subtitulo{
+  color:darkgoldenrod ;
+}
 
 .products {
   width: 80%;
