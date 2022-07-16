@@ -26,6 +26,10 @@ header h1 {
   margin: auto;
 }
 
+.price{
+  color: darkgoldenrod;
+}
+
 .products td {
   width: 50%;
   padding: 2em;
@@ -40,12 +44,12 @@ header h1 {
 footer {
   height: 3em;
   line-height: 3em;
-  background-color: rgb(58, 29, 18);
+  background-color: rgb(143, 46, 7);
   color: white;
   text-align: center;
   font-weight: 900;
 }
 
 footer p{
-  margin: 0px;
+  padding: auto;
 }
